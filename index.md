@@ -1,8 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SparkScratch-P/SUCSES/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # SUCSES
 SPARK Universal Code Series Encoded in Scratch
@@ -15,7 +10,7 @@ in 3 different versions; 16, 32 and 64 respectively, each capable of different a
 
 ## SUCSES 16:
 
- [Download SB3](https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2016.sb3)
+<a id="forkme_banner" href="https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2016.sb3">Download SB3</a>
 
 The **text** Encoding and decoding engine for scratch.
 
@@ -29,7 +24,7 @@ It is -
 
 ## SUCSES 32:
 
- [Download SB3](https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2032.sb3)
+<a id="forkme_banner" href="https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2032.sb3">Download SB3</a>
 
 The **List** encode-decode engine for Scratch. The SUCSES 16 Engine has been enhanced 
 to this list coding engine, with a 
@@ -50,7 +45,8 @@ the first  cloud list engine in India
 
 ## SUCSES 64:
 
- [Download Reader SB3](https://github.com/SparkScratch-P/SUCSES/raw/main/sucses64_reader.sb3)
+
+<a id="forkme_banner" href="https://github.com/SparkScratch-P/SUCSES/raw/main/sucses64_reader.sb3">Download Reader SB3</a>
 
 It is the **Image Encode-Decode** system of SECSES code series.
 It is not available as a snippet engine, rather , it requires 3 scratch sprites, namely [encode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#encodesprite3) , [decode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#decodesprite3) and [pen.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#pensprite3)
