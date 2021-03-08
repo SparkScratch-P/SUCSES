@@ -68,7 +68,9 @@ Before describing the 3 sprites in detail, let's read about one important thing!
 
 ### The Archiebuild
 
-[Use Archiebuild online](https://sparkscratch-p.github.io/ArchieBuild/)
+<a href="https://sparkscratch-p.github.io/ArchieBuild/" class="btn btn-github"><span class="icon"></span>Use Archiebuild online</a>
+
+<iframe src="https://sparkscratch-p.github.io/ArchieBuild/" width="499" height="416" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 **Archiebuild** is a MSW LOGO-like programming software, coded on scratch, published as JS. This software is able to program
  a pen such that the pen will draw a figure as coded. Here the movements of the pen r coded, and the code is saved in a
