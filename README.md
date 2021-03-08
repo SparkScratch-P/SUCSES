@@ -2,8 +2,9 @@
 SPARK Universal Code Series Encoded in Scratch
 
 ![SUCSES Logo](https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png "SUCSES Logo")
+ ###### MIT License ©SparkScratch_P
 
-SUCSES is an **opensource encode-decode engine kit**, entirely made on scratch. It has been made
+SUCSES is an **opensource encode-decode engine kit**, entirely made on scratch made by SparkScratch_P. It has been made
 in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images.
 
 ## SUCSES 16:
@@ -67,13 +68,19 @@ use in any browser from 'Sparkscratch-p.github.io' and as'Windows Executable fil
 
 #### encode.sprite3
 
+[Download the sprite](https://github.com/SparkScratch-P/SUCSES/raw/main/encoder.sprite3)
+
 It has total arrangements to encode the "CODE:\_" list and save to clipboard.
 
 #### decode.sprite3
 
+[Download the sprite](https://github.com/SparkScratch-P/SUCSES/raw/main/decoder.sprite3)
+
 It can decode the whole of SUCSES 64 code in the list usable by pen.sprite3
 
 #### Pen.sprite3
+
+[Download the sprite](https://github.com/SparkScratch-P/SUCSES/raw/main/Pen.sprite3)
 
 It can execute and thus, draw the diagram programmed in the SUCses 64 code.
 
