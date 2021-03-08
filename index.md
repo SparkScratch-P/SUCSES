@@ -1,12 +1,18 @@
 
-# SUCSES
-SPARK Universal Code Series Encoded in Scratch
+# The SUCSES Encode-Decode Engine Set.
 
 ![SUCSES Logo](https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png "SUCSES Logo")
- ###### MIT License ©SparkScratch_P
+###### MIT License ©SparkScratch_P
 
 SUCSES is an **opensource encode-decode engine kit**, entirely made on scratch made by SparkScratch_P. It has been made
 in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images.
+
+Features:
+
+- Fastest, simplest, smoothest
+- Used for Encryption security, data transfer and text to number expression
+- works with HTMLified JS projects
+- Made with pride and efficiency in India
 
 ## SUCSES 16:
 
