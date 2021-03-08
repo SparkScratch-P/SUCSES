@@ -38,11 +38,13 @@ the first  cloud list engine in India
 ## SUCSES 64:
 
 It is the **Image Encode-Decode** system of SECSES code series.
-It is not available as a snippet engine, rather , it requires 3 scratch sprites, namely encode.sprite3, decode.sprite3 and pen.sprite3
+It is not available as a snippet engine, rather , it requires 3 scratch sprites, namely [encode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#encodesprite3) , [decode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#decodesprite3) and [pen.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#pensprite3)
 
 Before describing the 3 sprites in detail, let's read about one important thing!
 
 ### The Archiebuild
+
+[Use Archiebuild online](https://sparkscratch-p.github.io/ArchieBuild/)
 
 **Archiebuild** is a MSW LOGO-like programming software, coded on scratch, published as JS. This software is able to program
  a pen such that the pen will draw a figure as coded. Here the movements of the pen r coded, and the code is saved in a
@@ -67,4 +69,5 @@ It can decode the whole of SUCSES 64 code in the list usable by pen.sprite3
 
 It can execute and thus, draw the diagram programmed in the SUCses 64 code.
 
-
+___
+The URLS to Archiebuild in Appocalypse and The SUCSES 64 reader is not provided for it is yet to be published, as of 15 March '21
