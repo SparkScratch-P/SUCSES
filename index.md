@@ -10,7 +10,7 @@ in 3 different versions; 16, 32 and 64 respectively, each capable of different a
 
 ## SUCSES 16:
 
-<a id="forkme_banner" href="https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2016.sb3">Download SB3</a>
+<a href="https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2016.sb3" class="btn btn-github"><span class="icon"></span>Download .sb3</a>
 
 The **text** Encoding and decoding engine for scratch.
 
@@ -24,7 +24,7 @@ It is -
 
 ## SUCSES 32:
 
-<a id="forkme_banner" href="https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2032.sb3">Download SB3</a>
+<a href="https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2032.sb3" class="btn btn-github"><span class="icon"></span>Download .sb3</a>
 
 The **List** encode-decode engine for Scratch. The SUCSES 16 Engine has been enhanced 
 to this list coding engine, with a 
@@ -46,7 +46,7 @@ the first  cloud list engine in India
 ## SUCSES 64:
 
 
-<a id="forkme_banner" href="https://github.com/SparkScratch-P/SUCSES/raw/main/sucses64_reader.sb3">Download Reader SB3</a>
+<a href="https://github.com/SparkScratch-P/SUCSES/raw/main/sucses64_reader.sb3" class="btn btn-github"><span class="icon"></span>Download Reader .sb3</a>
 
 It is the **Image Encode-Decode** system of SECSES code series.
 It is not available as a snippet engine, rather , it requires 3 scratch sprites, namely [encode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#encodesprite3) , [decode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#decodesprite3) and [pen.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#pensprite3)
@@ -68,19 +68,19 @@ To read and execute the data, *the whole database of SUCSES 64 reader needs to b
 ***NOTE*** that both SUCSES and Archiebuild r opensourced . Archiebuild and it's reader is available for
 use in any browser from 'Sparkscratch-p.github.io' and as'Windows Executable file' in App-ocalypse Appbox.
 
-#### encode.sprite3
+### encode.sprite3
 
 [Download the sprite](https://github.com/SparkScratch-P/SUCSES/raw/main/encoder.sprite3)
 
 It has total arrangements to encode the "CODE:\_" list and save to clipboard.
 
-#### decode.sprite3
+### decode.sprite3
 
 [Download the sprite](https://github.com/SparkScratch-P/SUCSES/raw/main/decoder.sprite3)
 
 It can decode the whole of SUCSES 64 code in the list usable by pen.sprite3
 
-#### Pen.sprite3
+### Pen.sprite3
 
 [Download the sprite](https://github.com/SparkScratch-P/SUCSES/raw/main/Pen.sprite3)
 
