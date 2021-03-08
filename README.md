@@ -1,10 +1,14 @@
 # SUCSES
 SPARK Universal Code Series Encoded in Scratch
 
+![SUCSES Logo](https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png "SUCSES Logo")
+
 SUCSES is an **opensource encode-decode engine kit**, entirely made on scratch. It has been made
 in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images.
 
 ## SUCSES 16:
+
+ [Download SB3](https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2016.sb3)
 
 The **text** Encoding and decoding engine for scratch.
 
@@ -17,6 +21,8 @@ It is -
  - on scratcth to 91 char by SparkScratch_P
 
 ## SUCSES 32:
+
+ [Download SB3](https://github.com/SparkScratch-P/SUCSES/raw/main/sucses%2032.sb3)
 
 The **List** encode-decode engine for Scratch. The SUCSES 16 Engine has been enhanced 
 to this list coding engine, with a 
@@ -36,6 +42,8 @@ the first  cloud list engine in India
  - Supported in JS when converted 
 
 ## SUCSES 64:
+
+ [Download Reader SB3](https://github.com/SparkScratch-P/SUCSES/raw/main/sucses64_reader.sb3)
 
 It is the **Image Encode-Decode** system of SECSES code series.
 It is not available as a snippet engine, rather , it requires 3 scratch sprites, namely [encode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#encodesprite3) , [decode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#decodesprite3) and [pen.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#pensprite3)
