@@ -2,7 +2,7 @@
 SPARK Universal Code Series Encoded in Scratch
 
 SUCSES is an **opensource encode-decode engine kit**, entirely made on scratch. It has been made
-in 3 different versions; 16, 32 and 64 respectively, each capable of different activities
+in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images.
 
 ## SUCSES 16:
 
@@ -66,3 +66,5 @@ It can decode the whole of SUCSES 64 code in the list usable by pen.sprite3
 #### Pen.sprite3
 
 It can execute and thus, draw the diagram programmed in the SUCses 64 code.
+
+
